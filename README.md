@@ -1,4 +1,4 @@
-# Estructura
+# Estructura de datos
 program de estructura de datos
 
 
